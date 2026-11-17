@@ -1,0 +1,8 @@
+{
+  "name": "Remix Төмс, Сэрээ, Шүдэнзний Тэнцвэрийн Туршилт",
+  "description": "2 шүдэнз, 1 сэрээ, 1 төмс ашиглан хүндийн төв ба тогтвортой тэнцвэрийг харуулсан интерактив физикийн туршилт ба анимаци.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
